@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="convertLength:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/convertLength_jar</output-path>
+    <root id="archive" name="convertLength.jar">
+      <element id="module-output" name="convertLength" />
+    </root>
+  </artifact>
+</component>
